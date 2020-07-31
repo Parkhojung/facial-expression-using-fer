@@ -1,28 +1,28 @@
 # facial-expression-using-fer
 
-if using 'emotion_detector_fer', most pictures classificated but accuracy is low
-if using 'emotion_detector_fer_dlib',  few pic classificated but accuracy is high
+if using 'emotion_detector_fer', most pictures classificated but accuracy is low<br />
+if using 'emotion_detector_fer_dlib',  few pic classificated but accuracy is high<br />
 
-env
-anaconda jupyter, tensorflow 2.3, dlib, face_detection, etc 
+env<br />
+anaconda jupyter, tensorflow 2.3, dlib, face_detection, etc <br />
 
-dataset directory should follow this
-root 
+dataset directory should follow this<br />
+root <br />
   ㄴtrain<br />
-    ㄴimg
-    ㄴresult
-        ㄴangry
-        ㄴfailed
-        ㄴhappy
-        ㄴneutral
-        ㄴsad
-        ㄴsurprise
-  ㄴtest
-    ㄴimg
-    ㄴresult
-        ㄴangry
-        ㄴfailed
-        ㄴhappy
-        ㄴneutral
-        ㄴsad
-        ㄴsurprise
+    ㄴimg<br />
+    ㄴresult<br />
+        ㄴangry<br />
+        ㄴfailed<br />
+        ㄴhappy<br />
+        ㄴneutral<br />
+        ㄴsad<br />
+        ㄴsurprise<br />
+  ㄴtest<br />
+    ㄴimg<br />
+    ㄴresult<br />
+        ㄴangry<br />
+        ㄴfailed<br />
+        ㄴhappy<br />
+        ㄴneutral<br />
+        ㄴsad<br />
+        ㄴsurprise<br />
