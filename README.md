@@ -8,26 +8,21 @@ anaconda jupyter, tensorflow 2.3, dlib, face_detection, etc <br />
 
 dataset directory should follow this<br />
 root <br />
-<ul>
-<li>
-  ㄴtrain<br />
-    <ul>
-    ㄴimg<br />
-    ㄴresult<br />
-        ㄴangry<br />
-        ㄴfailed<br />
-        ㄴhappy<br />
-        ㄴneutral<br />
-        ㄴsad<br />
-        ㄴsurprise<br />
-    </ul>
-    </li>
-ㄴtest<br />
-    ㄴimg<br />
-    ㄴresult<br />
-        ㄴangry<br />
-        ㄴfailed<br />
-        ㄴhappy<br />
-        ㄴneutral<br />
-        ㄴsad<br />
-        ㄴsurprise<br />
+..ㄴtrain
+....ㄴimg<br />
+....ㄴresult<br />
+........ㄴangry<br />
+........ㄴfailed<br />
+........ㄴhappy<br />
+........ㄴneutral<br />
+........ㄴsad<br />
+........ㄴsurprise<br />
+..ㄴtest<br />
+....ㄴimg<br />
+....ㄴresult<br />
+........ㄴangry<br />
+........ㄴfailed<br />
+........ㄴhappy<br />
+........ㄴneutral<br />
+........ㄴsad<br />
+........ㄴsurprise<br />
