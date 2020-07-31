@@ -1,5 +1,7 @@
 # facial-expression-using-fer
 
+output result link : https://www.dropbox.com/s/vpi9ujxnh2afl19/test.zip?dl=0
+
 if using 'emotion_detector_fer', most pictures classificated but accuracy is low<br />
 if using 'emotion_detector_fer_dlib',  few pic classificated but accuracy is high<br />
 
